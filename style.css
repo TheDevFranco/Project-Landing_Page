@@ -1,0 +1,29 @@
+.header{
+    background-color: #1f2937;
+}
+
+.logo{
+    color: #F9FAF8;
+    size: 24px;
+    font-weight: bold;
+}
+
+.navbar{
+    margin: 0px 50px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+}
+
+.navbar ul li{
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
+}
+
+.navbar ul li a{
+    text-decoration: none;
+    color: #E5E7EB;
+    size: 18px;
+}
