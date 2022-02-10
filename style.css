@@ -9,7 +9,7 @@
 }
 
 .navbar{
-    margin: 0px 50px;
+    margin: 0px 150px;
     display: flex;
     align-items: center;
     justify-content: space-between;
@@ -27,3 +27,34 @@
     color: #E5E7EB;
     size: 18px;
 }
+
+.content{
+    margin-top: 100px;
+}
+
+.content h1{
+    margin: 0px 150px;
+    font-size: 48px;
+    font-weight: extra-bold;
+    color: #F9FAF8;
+}
+.content p{
+    margin: 0px 150px;
+    font-size: 18px;
+    color: #E5E7EB;
+}
+
+button{
+    background-color: #3882f6;
+    color: #F9FAF8;
+    size: 18px;
+    margin: 10px 150px;
+    border-radius: 8px;
+    font-weight: bold;
+    padding: 8px 16px;
+  }
+
+.content img{
+      width: 300px;
+      height: auto;
+  }
