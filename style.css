@@ -118,7 +118,7 @@ button:hover{
     text-align: center;
     font-size: 18px;
     color: #F77F00;
-    font-weight: bolder;
+    font-weight: bold;
     width: 300px;
 }
 
@@ -126,7 +126,7 @@ button:hover{
 .quote {
     margin: 0;
     background: #003049;
-    padding: 25px 200px;
+    padding: 25px 150px;
     text-align: justify;
     color: #EAE2B7;
     font-size: 28px;
@@ -137,4 +137,35 @@ button:hover{
   .quote figcaption{
    text-align: end;
    padding: 0 40px;
+   font-weight: bold;
+}
+
+/* This following code is for the Footer section */
+.footer{
+    height: 400px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+        
+}
+
+.footergroup{
+    background-color: #F77F00;
+    padding: 50px;
+    border-radius: 12px;
+
+}
+
+.Odin{
+margin-top: 0px;
+background-color: #003049;
+padding: 30px;
+color: white;
+font: 36px;
+font-weight: bold;
+justify-content: center;
+align-content: center;
+display: flex;
 }
